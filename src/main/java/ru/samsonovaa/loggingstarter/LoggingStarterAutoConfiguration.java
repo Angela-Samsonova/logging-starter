@@ -1,4 +1,4 @@
-package ru.samsonovaa;
+package ru.samsonovaa.loggingstarter;
 
 public class LoggingStarterAutoConfiguration {
     public static void println(String str){
