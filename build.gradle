@@ -4,14 +4,18 @@ plugins {
 }
 
 group = 'ru.samsonovaa'
-version = '1.0-SNAPSHOT'
+version = '1.4-SNAPSHOT'
 
 repositories {
     mavenLocal()
     mavenCentral()
 }
 
+def springVersion = '3.2.5'
+
 dependencies {
+    implementation "org.springframework.boot:spring-boot-starter-web:${springVersion}"
+    implementation "org.springframework.boot:spring-boot-starter-aop:${springVersion}"
 }
 
 publishing {
