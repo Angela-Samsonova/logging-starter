@@ -3,10 +3,11 @@
   <groupId>ru.samsonovaa</groupId>
   <artifactId>logging-starter</artifactId>
   <versioning>
-    <latest>1.0-SNAPSHOT</latest>
+    <latest>1.4-SNAPSHOT</latest>
     <versions>
       <version>1.0-SNAPSHOT</version>
+      <version>1.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250728200902</lastUpdated>
+    <lastUpdated>20250827053510</lastUpdated>
   </versioning>
 </metadata>

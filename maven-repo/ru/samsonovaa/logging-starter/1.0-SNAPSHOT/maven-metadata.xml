@@ -3,26 +3,26 @@
   <groupId>ru.samsonovaa</groupId>
   <artifactId>logging-starter</artifactId>
   <versioning>
-    <lastUpdated>20250728200901</lastUpdated>
+    <lastUpdated>20250802180055</lastUpdated>
     <snapshot>
-      <timestamp>20250728.200901</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20250802.180055</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.0-20250728.200901-1</value>
-        <updated>20250728200901</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20250728.200901-1</value>
-        <updated>20250728200901</updated>
+        <value>1.0-20250802.180055-2</value>
+        <updated>20250802180055</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>1.0-20250728.200901-1</value>
-        <updated>20250728200901</updated>
+        <value>1.0-20250802.180055-2</value>
+        <updated>20250802180055</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20250802.180055-2</value>
+        <updated>20250802180055</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
